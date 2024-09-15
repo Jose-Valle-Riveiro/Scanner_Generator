@@ -10,10 +10,10 @@ La primer etapa del proyecto consiste en leer un archivo **.txt** y realizar un 
   -SETS: Conjunto de simbolos terminales  
      > Ej: LETRA   = 'A'..'Z'+'a'..'z'+'_'  
      
-  -TOKENS: Simbolos terminales y no terminales (no importa si no fueron declarados en SETS)
-     > Ej: TOKEN  4  = '='  
+  -TOKENS: Simbolos terminales y no terminales (no importa si no fueron declarados en SETS)  
+  > Ej: TOKEN  4  = '='  
      
-  -ACTIONS: Palabras reservadas para el uso del lenguaje.
-     > Ej: 38 = 'BREAK'  
+  -ACTIONS: Palabras reservadas para el uso del lenguaje.  
+  > Ej: 38 = 'BREAK'  
 
 ***
